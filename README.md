@@ -2,6 +2,10 @@
 
 This Feed Reader is a Project for every student of the Front-End Web Nano Degree Scholarship to practice and learn more about testing your project before implementing your code.
 
+## Check it live
+
+[Check it here!](https://jvincent3.github.io/udacity-FeedReader/)
+
 ## Run the locally
 
 __Download and install NodeJS__
