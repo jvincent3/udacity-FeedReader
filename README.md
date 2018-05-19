@@ -10,7 +10,7 @@ to play the game locally you will have to download  [Node.js](https://nodejs.org
 
 Creating __Node modules__ first you will have to go to your project directory in your commant prompt:
 
-![Image link example]()
+![cd to your project directory]()
 
  Once you managed to be in the directy now we can safely call in cmd prompt ```npm init``` to create a package.json, it will ask you for some information but you can easily skip through and use the default options by just pressing enter.
  
